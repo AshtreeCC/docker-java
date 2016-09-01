@@ -1,4 +1,4 @@
-FROM ashtreecc/node:4.5.0
+FROM ashtreecc/node:6.5.0
 
 MAINTAINER Andrew Nash "akahadaka@gmail.com"
 
